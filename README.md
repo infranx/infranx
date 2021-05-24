@@ -9,4 +9,4 @@ Current CEO and Founder @H4desNetwork.
 Steve Jobs.*
 
 ![twitier badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Finfrangoo)
-](https://twitter.com/infrangoo)
+](https://twitter.com/infrangoo)[
