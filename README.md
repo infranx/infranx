@@ -7,3 +7,6 @@ Current CEO and Founder @H4desNetwork.
 
 "*You can view an error as a blunder to be forgotten or as a result that points to a new direction.
 Steve Jobs.*
+
+![twitier badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Finfrangoo)
+](https://twitter.com/infrangoo)
