@@ -9,5 +9,5 @@ Current CEO and Founder @H4desNetwork.
 Steve Jobs.*
 [
 ![spotify badge](https://i0.wp.com/www.boanoiteinternet.com.br/wp-content/uploads/2018/11/badge-spotify-3.png?ssl=1)
-](https://open.spotify.com/user/osil1tdp2dzcurn0ahfi0mai4)[
+](https://open.spotify.com/user/osil1tdp2dzcurn0ahfi0mai4)
 
