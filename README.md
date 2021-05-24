@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá! 👋
 
-<!--
-**infranx/infranx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lucas Infran, I'm from Brazil!  
+Average Java developer. I've been working with creating minecraft plugins since 2019.
 
-Here are some ideas to get you started:
+Current CEO and Founder @H4desNetwork.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"*You can view an error as a blunder to be forgotten or as a result that points to a new direction.
+Steve Jobs.*
+
+![enter image description here](https://i0.wp.com/www.boanoiteinternet.com.br/wp-content/uploads/2018/11/badge-spotify-3.png?ssl=1)
+](https://open.spotify.com/user/osil1tdp2dzcurn0ahfi0mai4)[
+
