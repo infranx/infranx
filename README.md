@@ -1,6 +1,6 @@
 # Olá! 👋
 
-My name is Lucas Infran, I'm from Brazil!  🇧🇷
+My name is Lucas Infran, I'm from Brazil!
 Average Java developer. I've been working with creating minecraft plugins since 2019.
 
 **Mais um pouco sobre mim 💡**
