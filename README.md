@@ -1,14 +1,15 @@
 # Olá! 👋
 
-My name is Lucas Infran, I'm from Brazil!  
+My name is Lucas Infran, I'm from Brazil!  🇧🇷
 Average Java developer. I've been working with creating minecraft plugins since 2019.
 
 **Mais um pouco sobre mim 💡**
 - 📗 Current CEO and Founder [@H4desNetwork](https://github.com/H4desNetwork).
-- 🚩 Campo Grande, Mato Grosso do Sul. 🇧🇷
+-  ☕ Average Java Developer.
+- 🚩 Campo Grande, Mato Grosso do Sul.
 - 📆 13 Years old.
 
-"*You can view an error as a blunder to be forgotten or as a result that points to a new direction.
+"*You can view an error as a blunder to be forgotten or as a result that points to a new direction."
 Steve Jobs.*
 
 [
