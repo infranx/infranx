@@ -1,7 +1,6 @@
 # Hi there! 👋
 
-My name is Lucas Infran, I'm from Brazil!
-Average Java developer. I've been working with creating minecraft plugins since 2019.
+Helo! My name is Lucas Infran. I am from Brazil! I'm a basic Java developer. I've been creating minecraft plugins since 2019.
 
 **A little more about me 💡**
 - 📗 Current CEO and Lead Developer [@H4desNetwork](https://github.com/H4desNetwork).
@@ -13,7 +12,6 @@ Average Java developer. I've been working with creating minecraft plugins since 
 Steve Jobs.*
 
 Follow me or talk to me! 👇
-
 
 [
 ![twitier badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
