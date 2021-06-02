@@ -12,6 +12,9 @@ Average Java developer. I've been working with creating minecraft plugins since 
 "*You can view an error as a blunder to be forgotten or as a result that points to a new direction."
 Steve Jobs.*
 
+Follow me or talk to me! 👇
+
+
 [
 ![twitier badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ](https://twitter.com/infrangoo)[
